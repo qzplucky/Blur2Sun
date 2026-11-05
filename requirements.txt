@@ -1,0 +1,12 @@
+# Blur2Sun v5 runtime
+# Python >= 3.10, PyTorch >= 2.1 (CUDA build recommended)
+torch>=2.1.0
+numpy>=1.24
+scipy>=1.10
+matplotlib>=3.7
+astropy>=5.3
+sunpy>=5.1
+aiapy>=0.7
+ChiantiPy>=0.15
+tqdm>=4.65
+tabulate>=0.9
